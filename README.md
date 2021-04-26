@@ -52,5 +52,5 @@ optimization (PSO), genetic algorithm (GA), and the ant colony optimization
 ### Computing topology
 
 Original article also provides a benchmarking of how the topology choice can affect in the execution
-time of the QIEDA, and an ideal topology is proposed in order to decrease the depth of the quantum circuits.
+time of the QIEDA, and an ideal topology (https://github.com/VicentePerezSoloviev/QIEDA/blob/master/chainbackend.py) is proposed in order to decrease the depth of the quantum circuits.
  
