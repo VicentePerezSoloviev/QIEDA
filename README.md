@@ -25,7 +25,7 @@ Quantum noise is considered in the results. A modified version of the W State qu
 order to be able to set specific probabilities for each of the quantum pure states. In next figure, the difference
 between executing the quantum circuit without (a) and with (b) noise can be observed.
 
-![W State histograms](./horizon_hists_wstate.png?raw=true "Histogram W State")
+![W State histograms](./horizon_hists_wstate.PNG?raw=true "Histogram W State")
 
 ### Cost analysis
 
