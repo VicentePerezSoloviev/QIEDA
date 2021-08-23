@@ -53,4 +53,18 @@ optimization (PSO), genetic algorithm (GA), and the ant colony optimization
 
 Original article also provides a benchmarking of how the topology choice can affect in the execution
 time of the QIEDA, and an ideal topology (https://github.com/VicentePerezSoloviev/QIEDA/blob/master/chainbackend.py) is proposed in order to decrease the depth of the quantum circuits.
+
+### Citation
+
+Soloviev, V. P., Bielza, C., & Larrañaga, P. (2021, June). Quantum-Inspired Estimation Of Distribution Algorithm To Solve The Travelling Salesman Problem. In 2021 IEEE Congress on Evolutionary Computation (CEC) (pp. 416-425). IEEE.
+
+@inproceedings{soloviev2021quantum,
+  title={Quantum-Inspired Estimation Of Distribution Algorithm To Solve The Travelling Salesman Problem},
+  author={Soloviev, Vicente P and Bielza, Concha and Larra{\~n}aga, Pedro},
+  booktitle={2021 IEEE Congress on Evolutionary Computation (CEC)},
+  pages={416--425},
+  year={2021},
+  organization={IEEE}
+}
+
  
